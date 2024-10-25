@@ -1,0 +1,32 @@
+.SuscripcionTable {
+    background-color:;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35vh;
+}
+
+button {
+    background-color:black;
+    color: white;
+    padding: 20px;
+    border: 20px;
+}
+
+a {
+    background-color: ;
+    color: white;
+}
+
+body {
+    background: linear-gradient(to right, purple, blue, purple);
+    color: white;
+    padding: 11px;
+}
+
+a {
+    background: linear-gradient(to right,);
+    color: white;
+    padding: 11px;
+ 
+}
